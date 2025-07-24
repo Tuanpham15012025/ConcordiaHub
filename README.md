@@ -26,9 +26,5 @@ ConcordiaHub – A Web3 DApp for community-driven task reviews & karma-based rew
 
 ## 💻 Local Development
 
-```bash
-git clone https://github.com/yourname/ConcordiaHub.git
-cd ConcordiaHub
-npm install
-npx hardhat compile
-npm run dev
+git clone https://github.com/tuanpham15012025/ConcordiaHub.git
+
